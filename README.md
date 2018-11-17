@@ -1,2 +1,0 @@
-# MeetApp
-Created with CodeSandbox
